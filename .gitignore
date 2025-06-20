@@ -192,3 +192,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# YOLOv8 specific outputs
+runs/
+# If you have specific output folders
+results/
+# If you have large data you don't want to commit (and are hosting externally)
+data/raw/
+data/processed/
+# If your model weights are too big and you're not using Git LFS
+models/*.pt
+models/*.pth
