@@ -75,6 +75,7 @@ Make sure you have Python 3.x and `pip` installed on your system.
     * Your custom trained model weights (`best.pt`) are crucial for the detection.
     * **If `models/best.pt` is included in the GitHub upload:** No extra steps needed here.
     * **If `models/best.pt` was too large for direct GitHub upload:**
+    * link- /content/yolo11n.pt*
         * Download the `best.pt` file from the link above and place it into the `models/` directory within your project folder.
 
 ### Usage
