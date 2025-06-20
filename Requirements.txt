@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+pandas
+# If you used specific PyTorch versions during training:
+# torch==2.6.0
+# If you're running on GPU, you'll need a specific torch version with CUDA support.
+# Otherwise, the CPU-only version is often installed by default.
+# If you used scikit-learn for any metrics or utilities:
+# scikit-learn
+#matplotlib
